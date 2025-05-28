@@ -1,0 +1,2 @@
+.env   #Garante que seu arquivo com login e senha NUNCA será enviado para o GitHub.
+__pycache__/  #Ignora uma pasta que o Python cria para otimizar o código, mas que não precisamos versionar.
